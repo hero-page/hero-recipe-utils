@@ -1,0 +1,26 @@
+{
+  "name": "@hero-page/hero-recipe-utils",
+  "description": "A set of utility functions for building recipe-related apps.",
+  "author": "Sam Chahine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "recipe",
+    "utility",
+    "functions",
+    "convertUnits",
+    "scaleIngredients",
+    "parseIngredients",
+    "generateShoppingList",
+    "cookTimeEstimator",
+    "filterByAllergens",
+    "sortByDifficulty",
+    "recommendSimilarRecipes"
+  ],
+  "license": "MIT",
+  "repository": {},
+  "dependencies": {},
+  "scripts": {
+    "test": "node tests.js"
+  }
+}
